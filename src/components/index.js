@@ -6,7 +6,7 @@ import Clients from "./Clients";
 import CTA from "./CTA";
 import Stats from "./Stats";
 import Footer from "./Footer";
-import TestMonials from "./TestMonials";
+import TestMonials from "./TestMonials"
 import Hero from "./Hero";
 
 export {
